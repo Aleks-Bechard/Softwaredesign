@@ -3,6 +3,7 @@ package week1;
  * Aleks Bechard
  */
 public class student
+   //1/25/2022 did this from gitHub
 {
    private String studentId;
    private String studentName;
