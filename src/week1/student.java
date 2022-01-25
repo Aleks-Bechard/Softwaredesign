@@ -6,6 +6,17 @@ public class student
 {
    private String studentId;
    private String studentName;
+   private String address;
+
+   public void setAddress (String address)
+   {
+      this.address = address;
+   }
+
+   public String getAddress ()
+   {
+      return address;
+   }
 
    public student (String studentId, String studentName)
    {

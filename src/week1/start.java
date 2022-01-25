@@ -14,7 +14,7 @@ public class start
       list[3] = new student("s4", "Linda Belcher");
 
       for (int i = 0; i < list.length; i++) {
-         System.out.println(list[i].getStudentId() + "  " + list[i].getStudentName() + "  ");
+         System.out.println(list[i].getStudentId() + "  " + list[i].getStudentName());
 
       }
 
