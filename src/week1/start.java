@@ -6,6 +6,7 @@ public class start
 {
    public static void main (String[] args)
    {
+      //this is from Feb 1
       student[] list = new student[4];
 
       list[0] = new student("s1", "Aleks Bechard");
